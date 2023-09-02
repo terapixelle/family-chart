@@ -1,0 +1,12 @@
+{
+    "family": {
+        "surname": "Dawnvale",
+        "members": [
+            {"id": 0, "name": "Onyx", "generation": 1, "campaign": "", "race": "Half Elf", "class": ["Druid"], "subclass": [], "portrait":[], "partner": ["Amber"], "parents": [], "children": ["Jade", "Sapphire", "Slate"]},
+            {"id": 1, "name": "Amber", "generation": 1, "campaign": "", "race": "Wood Elf", "class": ["Druid"], "subclass": [], "portrait":[], "partner": ["Onyx"], "parents": [], "children": ["Jade", "Sapphire", "Slate"]},
+            {"id": 2, "name": "Sapphire", "generation": 2, "campaign": "", "race": "Wood Elf", "class": ["Druid"], "subclass": ["Circle of Stars"], "portrait":[], "partner": ["River"], "parents": ["Onyx", "Amber"], "children": []},
+            {"id": 3, "name": "Jade", "generation": 2, "campaign": "", "race": "Wood Elf", "class": ["Druid", "Warlock"], "subclass": [], "portrait":[], "partner": [], "parents": ["Onyx", "Amber"], "children": []},
+            {"id": 4, "name": "Slate", "generation": 2, "campaign": "", "race": "Wood Elf", "class": ["Druid", "Warlock"], "subclass": [], "portrait":[], "partner": [], "parents": ["Onyx", "Amber"], "children": []}
+        ]
+    }
+}
